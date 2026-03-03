@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hello People of Terra, I'm Ilhami As'ad Nanda Perdana 👋
-<p align="center">
-  <img src="https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.gif" width="400"/>
-</p>
+![Terra](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZybmg0aWN1N2FjZnJuNTJ0eDE1Y3M2MDVnbXNpNnJmeW80anJtbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l5JbspfwZ0yjHjlJ0K/giphy.gif)
 <!--
 **IlhamiAsad/Ilhamiasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
